@@ -1,0 +1,8 @@
+Consoli User Signature
+b2eb579d3ac6ca9a4c661ced7b364d5c
+
+Consoli Product Name
+TestingConsoli
+
+Consoli Bundle Identifier
+com.fun.testing.consoli
